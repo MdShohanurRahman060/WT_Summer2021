@@ -1,0 +1,10 @@
+{
+    "name": "shohan",
+    "email": "shohan25@gmail.com",
+    "password": "12345",
+    "comment": "Good!",
+    "gender": "Male",
+    "hobby1": null,
+    "hobby2": null,
+    "hobby3": "Reading"
+}
